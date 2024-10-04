@@ -146,3 +146,17 @@ section p{
     cursor: pointer;
     display: none;
 }
+/* alterar fontes dos textos */
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* contralizar titulos*/
+h2, h3{
+    text-align: center;
+}
+
+/* css da imagem que seria adicionada 
+.test{
+    height: 100px;
+    width: 200px;
+}*/
